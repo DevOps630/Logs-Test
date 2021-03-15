@@ -1,2 +1,3 @@
 Ansible is a configuration and management tool , it used fot to install, configure all types of softwares and hard in remote machines by using 
 ansible playbooks. by one single play book we can manage hundreds of mahcines/servers.
+//this is second data in this file
