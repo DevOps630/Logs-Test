@@ -11,3 +11,12 @@ gas
 dg
 sa
 
+
+
+as
+ga
+sg
+asg
+as
+g
+
