@@ -4,4 +4,8 @@ class sum
 	{
 		int a,b,c;
 		a=50;
+		b=200;
+		c=700;
+
+
 
